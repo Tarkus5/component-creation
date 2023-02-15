@@ -1,6 +1,9 @@
 .paragraph{
-  color: green;
+  color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 18px;
   font-weight: 500;
+  padding: 20px;
+  background-color: lightgreen;
+  border: 1px, solid, green;
 }
